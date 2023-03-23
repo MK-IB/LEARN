@@ -11,6 +11,6 @@ public class CircleRotation : MonoBehaviour
     void Update()
     {
         transform.RotateAround(pivotPoint.position, Vector3.up, rotationSpeed * Time.deltaTime);
-        transform.position = pivotPoint.position + (transform.position - pivotPoint.position).normalized * radius;
+        //transform.position = pivotPoint.position + (transform.position - pivotPoint.position).normalized * radius;
     }
 }
