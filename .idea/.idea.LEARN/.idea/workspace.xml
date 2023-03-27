@@ -20,27 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df2dac6b-0a7a-4402-9fa1-b25ef53ccd4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/Mesh Out of points.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/Mesh Out of points.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/TerrainShader.shadergraph" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/TerrainShader.shadergraph.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/logo.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced-Renderer.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Graph Test/CircleRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Graph Test/CircleRotation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Graph Test/Follower.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Graph Test/Follower.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Graph Test/New Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Graph Test/New Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Graph Test/chaser 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Graph Test/chaser 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Intro To Game Dev/Materials/floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Intro To Game Dev/Materials/floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/New Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/New Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/Sprite Shape Profile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/Sprite Shape Profile.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mesh_My_Custom/CircularMesh.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mesh_My_Custom/CircularMesh.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mesh_My_Custom/New Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mesh_My_Custom/New Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat custom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat custom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/mat red.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LEARN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/Mesh Out of points.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/Mesh Out of points.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Mesh Generation/mat.mat.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Graph Test/Follower.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_FreeDraw/Scripts/DrawingSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mesh_My_Custom/CircularMesh.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Graph Test/CircleRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Mesh Generation/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -64,6 +63,7 @@
         <option value="$PROJECT_DIR$/Assets/_Graph Test/CircleRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/_Graph Test/Follower.cs" />
         <option value="$PROJECT_DIR$/Assets/_Mesh Generation/MeshOutOfRandPoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mesh_My_Custom/CircularMesh.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +107,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

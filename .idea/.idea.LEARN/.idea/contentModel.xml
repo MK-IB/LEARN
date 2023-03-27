@@ -358,6 +358,9 @@
             </e>
           </e>
         </e>
+        <e p="Mesh_My_Custom" t="Include">
+          <e p="CircularMesh.cs" t="Include" />
+        </e>
         <e p="Obi Test" t="Include">
           <e p="MyRope.cs" t="Include" />
           <e p="Obi" t="Include">
